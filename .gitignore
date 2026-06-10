@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+erp.db
+node_modules/
+dist/
+backend/venv/
+backend/.env
+frontend/.env
+frontend/dist/
