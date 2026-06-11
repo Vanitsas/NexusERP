@@ -3,8 +3,8 @@
 FastAPI ve React ile geliştirilmiş tam kapsamlı bir Kurumsal Kaynak Planlama (ERP) sistemi. NexusERP; ürün yönetimi, sipariş işleme, müşteri yönetimi ve analitik dashboard ile eksiksiz bir iş yönetimi çözümü sunar.
 
 ## 🚀 Canlı Demo
-- Frontend: [yakında]
-- Backend API: [yakında]
+- Frontend: [nexuserp-app.netlify.app](https://nexuserp-app.netlify.app)
+- Backend API: [nexuserp-production-eebb.up.railway.app](https://nexuserp-production-eebb.up.railway.app)
 
 ## ✨ Özellikler
 
@@ -146,7 +146,12 @@ VITE_API_URL=http://localhost:8000
 | demo | 1234 | Kullanıcı |
 
 ## 📸 Ekran Görüntüleri
-*Yakında eklenecek*
+![Dashboard](screenshots/dashboard.png)
+![Ürünler](screenshots/products.png)
+![Siparişler](screenshots/orders.png)
+![Müşteriler](screenshots/customers.png)
+![Analitik](screenshots/analytics.png)
+![Giriş](screenshots/login.png)
 
 ## 📝 Lisans
 MIT

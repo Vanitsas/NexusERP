@@ -3,8 +3,8 @@
 A full-stack Enterprise Resource Planning (ERP) system built with FastAPI and React. NexusERP provides a complete business management solution with product inventory, order processing, customer management, and analytics dashboard.
 
 ## 🚀 Live Demo
-- Frontend: [coming soon]
-- Backend API: [coming soon]
+- Frontend: [nexuserp-app.netlify.app](https://nexuserp-app.netlify.app)
+- Backend API: [nexuserp-production-eebb.up.railway.app](https://nexuserp-production-eebb.up.railway.app)
 
 ## ✨ Features
 
@@ -146,7 +146,13 @@ VITE_API_URL=http://localhost:8000
 | demo | 1234 | User |
 
 ## 📸 Screenshots
-*Coming soon*
+
+![Dashboard](screenshots/dashboard.png)
+![Products](screenshots/products.png)
+![Orders](screenshots/orders.png)
+![Customers](screenshots/customers.png)
+![Analytics](screenshots/analytics.png)
+![Login](screenshots/login.png)
 
 ## 📝 License
 MIT
