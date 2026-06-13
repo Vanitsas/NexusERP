@@ -4,7 +4,6 @@ A full-stack Enterprise Resource Planning (ERP) system built with FastAPI and Re
 
 ## 🚀 Live Demo
 - Frontend: [nexuserp-app.netlify.app](https://nexuserp-app.netlify.app)
-- Backend API: [nexuserp-production-eebb.up.railway.app](https://nexuserp-production-eebb.up.railway.app)
 
 ## ✨ Features
 
@@ -142,7 +141,6 @@ VITE_API_URL=http://localhost:8000
 
 | Username | Password | Role |
 |----------|----------|------|
-| admin | admin123 | Admin |
 | demo | 1234 | User |
 
 ## 📸 Screenshots

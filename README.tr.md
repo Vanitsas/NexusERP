@@ -4,7 +4,6 @@ FastAPI ve React ile geliştirilmiş tam kapsamlı bir Kurumsal Kaynak Planlama 
 
 ## 🚀 Canlı Demo
 - Frontend: [nexuserp-app.netlify.app](https://nexuserp-app.netlify.app)
-- Backend API: [nexuserp-production-eebb.up.railway.app](https://nexuserp-production-eebb.up.railway.app)
 
 ## ✨ Özellikler
 
@@ -142,7 +141,6 @@ VITE_API_URL=http://localhost:8000
 
 | Kullanıcı Adı | Şifre | Rol |
 |---------------|-------|-----|
-| admin | admin123 | Admin |
 | demo | 1234 | Kullanıcı |
 
 ## 📸 Ekran Görüntüleri
