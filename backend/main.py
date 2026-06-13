@@ -9,7 +9,7 @@ from routes.orders import router as orders_router
 from routes.admin import router as admin_router   # 👈 EKLENDİ
 from routes.customers import router as customers_router
 
-app = FastAPI()
+app = FastAPI(docs_url=None, redoc_url=None)
 
 # CORS
 app.add_middleware(
