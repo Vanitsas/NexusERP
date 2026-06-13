@@ -53,8 +53,8 @@ def init_db():
         INSERT INTO users (username, password, role)
         VALUES (?, ?, ?)
         """, [
-            ("admin", hash_password("NexusERP=2026!"), "admin"),
-            ("demo", hash_password("1234"), "user")
+            ("admin", hash_password(os.getenv("ADMIN_PASSWORD", "changeme")), "admin"),
+            ("demo", hash_password(os.getenv("DEMO_PASSWORD", "changeme")), "user")
         ])
 
     # =======================
